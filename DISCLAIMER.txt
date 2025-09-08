@@ -1,0 +1,8 @@
+DISCLAIMER — DEMO ONLY
+----------------------
+This software is a demonstration prototype only. It is NOT a production platform and must NOT be used to solicit deposits or provide financial returns to real customers.
+The author and distributor of this prototype do not provide legal, financial, or regulatory approval for any product built from this code.
+If you intend to build a real fintech product:
+- Consult licensed legal counsel and financial regulators (e.g., BSP in the Philippines).
+- Implement KYC/AML, security auditing, data protection, and insurance/reserve mechanisms.
+- Avoid promising guaranteed high returns; always include clear risk disclosures.
